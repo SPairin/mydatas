@@ -138,7 +138,7 @@ ID,faculty,sec,score
 63130041725,engineering,3,11
 63120041256,agriculture,5,11
 63120040163,agriculture,5,11
-63120041351,เกษตรศาตร์,5,11
+63120041351,agriculture,5,11
 63120040556,agriculture,5,11
 63120040613,agriculture,5,10
 63130044153,engineering,1,8
@@ -305,7 +305,7 @@ ID,faculty,sec,score
 63130041897,engineering,3,9
 63130041969,engineering,4,11
 63130043365,engineering,3,7
-63120540102,agriculture?,5,10
+63120540102,agriculture,5,10
 63130041187,engineering,3,9
 63130043215,engineering,3,8
 63130041664,engineering,1,10
